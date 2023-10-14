@@ -1,0 +1,980 @@
+await fetch("https://www.lineupexperts.com/hockey/mock-draft-simulator", {
+  "headers": {
+    "accept": "application/json, text/javascript, */*; q=0.01",
+    "accept-language": "en-US,en;q=0.9",
+    "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
+    "sec-ch-ua": "\"Chromium\";v=\"116\", \"Not)A;Brand\";v=\"24\", \"Google Chrome\";v=\"116\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-origin",
+    "x-requested-with": "XMLHttpRequest"
+  },
+  "referrer": "https://www.lineupexperts.com/hockey/mock-draft-simulator",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": "dround_selected=1&pid=ZmxmBGZ4o13qpn566rs3q595375n90714p6s4n6r&round=16",
+  "method": "POST",
+  "mode": "cors",
+  "credentials": "include"
+});
+await fetch("https://www.lineupexperts.com/hockey/mock-draft-simulator", {
+  "headers": {
+    "accept": "application/json, text/javascript, */*; q=0.01",
+    "accept-language": "en-US,en;q=0.9",
+    "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
+    "sec-ch-ua": "\"Chromium\";v=\"116\", \"Not)A;Brand\";v=\"24\", \"Google Chrome\";v=\"116\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-origin",
+    "x-requested-with": "XMLHttpRequest"
+  },
+  "referrer": "https://www.lineupexperts.com/hockey/mock-draft-simulator",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": "dround_selected=1&pid=ZmVmZQZjZmp=3490qpo0q7pps9s0spp16nr4o4nos1no&round=15",
+  "method": "POST",
+  "mode": "cors",
+  "credentials": "include"
+});
+await fetch("https://www.lineupexperts.com/hockey/mock-draft-simulator", {
+  "headers": {
+    "accept": "application/json, text/javascript, */*; q=0.01",
+    "accept-language": "en-US,en;q=0.9",
+    "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
+    "sec-ch-ua": "\"Chromium\";v=\"116\", \"Not)A;Brand\";v=\"24\", \"Google Chrome\";v=\"116\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-origin",
+    "x-requested-with": "XMLHttpRequest"
+  },
+  "referrer": "https://www.lineupexperts.com/hockey/mock-draft-simulator",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": "dround_selected=1&pid=ZmRmAwZmZmL%3D1s85o01168p1o9o9r1qr869p13no4q7r&round=14",
+  "method": "POST",
+  "mode": "cors",
+  "credentials": "include"
+});
+await fetch("https://www.lineupexperts.com/hockey/mock-draft-simulator", {
+  "headers": {
+    "accept": "application/json, text/javascript, */*; q=0.01",
+    "accept-language": "en-US,en;q=0.9",
+    "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
+    "sec-ch-ua": "\"Google Chrome\";v=\"117\", \"Not;A=Brand\";v=\"8\", \"Chromium\";v=\"117\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-origin",
+    "x-requested-with": "XMLHttpRequest"
+  },
+  "referrer": "https://www.lineupexperts.com/hockey/mock-draft-simulator",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": "dround_selected=1&pid=ZmLmZwZ35nn9o9pp1q78r0qs550r28q3q9710rrq&round=4",
+  "method": "POST",
+  "mode": "cors",
+  "credentials": "include"
+});
+await fetch("https://www.lineupexperts.com/hockey/mock-draft-simulator", {
+  "headers": {
+    "accept": "application/json, text/javascript, */*; q=0.01",
+    "accept-language": "en-US,en;q=0.9",
+    "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
+    "sec-ch-ua": "\"Chromium\";v=\"116\", \"Not)A;Brand\";v=\"24\", \"Google Chrome\";v=\"116\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-origin",
+    "x-requested-with": "XMLHttpRequest"
+  },
+  "referrer": "https://www.lineupexperts.com/hockey/mock-draft-simulator",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": "dround_selected=1&pid=ZmVmZQZjZmp%3D3490qpo0q7pps9s0spp16nr4o4nos1no&round=15",
+  "method": "POST",
+  "mode": "cors",
+  "credentials": "include"
+});
+await fetch("https://www.lineupexperts.com/hockey/mock-draft-simulator", {
+  "headers": {
+    "accept": "application/json, text/javascript, */*; q=0.01",
+    "accept-language": "en-US,en;q=0.9",
+    "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
+    "sec-ch-ua": "\"Chromium\";v=\"116\", \"Not)A;Brand\";v=\"24\", \"Google Chrome\";v=\"116\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-origin",
+    "x-requested-with": "XMLHttpRequest"
+  },
+  "referrer": "https://www.lineupexperts.com/hockey/mock-draft-simulator",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": "dround_selected=1&pid=ZmLmZwZkp11799qn9rn96q38o3qr789sp5q70736&round=15",
+  "method": "POST",
+  "mode": "cors",
+  "credentials": "include"
+});
+await fetch("https://www.lineupexperts.com/hockey/mock-draft-simulator", {
+  "headers": {
+    "accept": "application/json, text/javascript, */*; q=0.01",
+    "accept-language": "en-US,en;q=0.9",
+    "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
+    "sec-ch-ua": "\"Chromium\";v=\"116\", \"Not)A;Brand\";v=\"24\", \"Google Chrome\";v=\"116\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-origin",
+    "x-requested-with": "XMLHttpRequest"
+  },
+  "referrer": "https://www.lineupexperts.com/hockey/mock-draft-simulator",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": "dround_selected=1&pid=ZmRmZwZ0ZmZ%3D040r4qs71ns23015ors3o1r822n9o14s&round=16",
+  "method": "POST",
+  "mode": "cors",
+  "credentials": "include"
+});
+await fetch("https://www.lineupexperts.com/hockey/mock-draft-simulator", {
+  "headers": {
+    "accept": "application/json, text/javascript, */*; q=0.01",
+    "accept-language": "en-US,en;q=0.9",
+    "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
+    "sec-ch-ua": "\"Chromium\";v=\"116\", \"Not)A;Brand\";v=\"24\", \"Google Chrome\";v=\"116\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-origin",
+    "x-requested-with": "XMLHttpRequest"
+  },
+  "referrer": "https://www.lineupexperts.com/hockey/mock-draft-simulator",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": "dround_selected=1&pid=ZmRmZmZjZmN%3Dn104opsnoo4486710rq7r85os96n38qp&round=7",
+  "method": "POST",
+  "mode": "cors",
+  "credentials": "include"
+});
+await fetch("https://www.lineupexperts.com/hockey/mock-draft-simulator", {
+  "headers": {
+    "accept": "application/json, text/javascript, */*; q=0.01",
+    "accept-language": "en-US,en;q=0.9",
+    "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
+    "sec-ch-ua": "\"Chromium\";v=\"116\", \"Not)A;Brand\";v=\"24\", \"Google Chrome\";v=\"116\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-origin",
+    "x-requested-with": "XMLHttpRequest"
+  },
+  "referrer": "https://www.lineupexperts.com/hockey/mock-draft-simulator",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": "dround_selected=1&pid=ZmRmZGZmZmV%3D7spp074q6r4n618n6o438o1238pr9q13&round=10",
+  "method": "POST",
+  "mode": "cors",
+  "credentials": "include"
+});
+await fetch("https://www.lineupexperts.com/hockey/mock-draft-simulator", {
+  "headers": {
+    "accept": "application/json, text/javascript, */*; q=0.01",
+    "accept-language": "en-US,en;q=0.9",
+    "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
+    "sec-ch-ua": "\"Chromium\";v=\"116\", \"Not)A;Brand\";v=\"24\", \"Google Chrome\";v=\"116\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-origin",
+    "x-requested-with": "XMLHttpRequest"
+  },
+  "referrer": "https://www.lineupexperts.com/hockey/mock-draft-simulator",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": "dround_selected=1&pid=ZmRmZQZjZmL%3D043930910298012rs3oppo78p4584s67&round=16",
+  "method": "POST",
+  "mode": "cors",
+  "credentials": "include"
+});
+await fetch("https://www.lineupexperts.com/hockey/mock-draft-simulator", {
+  "headers": {
+    "accept": "application/json, text/javascript, */*; q=0.01",
+    "accept-language": "en-US,en;q=0.9",
+    "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
+    "sec-ch-ua": "\"Chromium\";v=\"116\", \"Not)A;Brand\";v=\"24\", \"Google Chrome\";v=\"116\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-origin",
+    "x-requested-with": "XMLHttpRequest"
+  },
+  "referrer": "https://www.lineupexperts.com/hockey/mock-draft-simulator",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": "dround_selected=1&pid=ZmRmZQZ0ZmV%3Dq01rr92o626nq544s0ssos53r0p7707n&round=14",
+  "method": "POST",
+  "mode": "cors",
+  "credentials": "include"
+});
+await fetch("https://www.lineupexperts.com/hockey/mock-draft-simulator", {
+  "headers": {
+    "accept": "application/json, text/javascript, */*; q=0.01",
+    "accept-language": "en-US,en;q=0.9",
+    "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
+    "sec-ch-ua": "\"Chromium\";v=\"116\", \"Not)A;Brand\";v=\"24\", \"Google Chrome\";v=\"116\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-origin",
+    "x-requested-with": "XMLHttpRequest"
+  },
+  "referrer": "https://www.lineupexperts.com/hockey/mock-draft-simulator",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": "dround_selected=1&pid=ZmZmZQZ11p63335r27543nrn47noqsr8p82on340&round=15",
+  "method": "POST",
+  "mode": "cors",
+  "credentials": "include"
+});
+await fetch("https://www.lineupexperts.com/hockey/mock-draft-simulator", {
+  "headers": {
+    "accept": "application/json, text/javascript, */*; q=0.01",
+    "accept-language": "en-US,en;q=0.9",
+    "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
+    "sec-ch-ua": "\"Chromium\";v=\"116\", \"Not)A;Brand\";v=\"24\", \"Google Chrome\";v=\"116\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-origin",
+    "x-requested-with": "XMLHttpRequest"
+  },
+  "referrer": "https://www.lineupexperts.com/hockey/mock-draft-simulator",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": "dround_selected=1&pid=ZmxmAmZ444nr8994q4085roq58r339365o4qpn49&round=8",
+  "method": "POST",
+  "mode": "cors",
+  "credentials": "include"
+});
+await fetch("https://www.lineupexperts.com/hockey/mock-draft-simulator", {
+  "headers": {
+    "accept": "application/json, text/javascript, */*; q=0.01",
+    "accept-language": "en-US,en;q=0.9",
+    "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
+    "sec-ch-ua": "\"Chromium\";v=\"116\", \"Not)A;Brand\";v=\"24\", \"Google Chrome\";v=\"116\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-origin",
+    "x-requested-with": "XMLHttpRequest"
+  },
+  "referrer": "https://www.lineupexperts.com/hockey/mock-draft-simulator",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": "dround_selected=1&pid=ZmRmAQZmZmN%3D33q6087p4r99pns6s3o80qq7r6q03o56&round=13",
+  "method": "POST",
+  "mode": "cors",
+  "credentials": "include"
+});
+await fetch("https://www.lineupexperts.com/hockey/mock-draft-simulator", {
+  "headers": {
+    "accept": "application/json, text/javascript, */*; q=0.01",
+    "accept-language": "en-US,en;q=0.9",
+    "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
+    "sec-ch-ua": "\"Chromium\";v=\"116\", \"Not)A;Brand\";v=\"24\", \"Google Chrome\";v=\"116\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-origin",
+    "x-requested-with": "XMLHttpRequest"
+  },
+  "referrer": "https://www.lineupexperts.com/hockey/mock-draft-simulator",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": "dround_selected=1&pid=ZmRmAQZkZmD%3D28pqrs0p3r841950o7700q42q72r5r9s&round=15",
+  "method": "POST",
+  "mode": "cors",
+  "credentials": "include"
+});
+await fetch("https://www.lineupexperts.com/hockey/mock-draft-simulator", {
+  "headers": {
+    "accept": "application/json, text/javascript, */*; q=0.01",
+    "accept-language": "en-US,en;q=0.9",
+    "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
+    "sec-ch-ua": "\"Chromium\";v=\"116\", \"Not)A;Brand\";v=\"24\", \"Google Chrome\";v=\"116\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-origin",
+    "x-requested-with": "XMLHttpRequest"
+  },
+  "referrer": "https://www.lineupexperts.com/hockey/mock-draft-simulator",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": "dround_selected=1&pid=ZmRmZwZlZmH%3D50p1psr667507so796p84sn38o2115so&round=14",
+  "method": "POST",
+  "mode": "cors",
+  "credentials": "include"
+});
+await fetch("https://www.lineupexperts.com/hockey/mock-draft-simulator", {
+  "headers": {
+    "accept": "application/json, text/javascript, */*; q=0.01",
+    "accept-language": "en-US,en;q=0.9",
+    "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
+    "sec-ch-ua": "\"Chromium\";v=\"116\", \"Not)A;Brand\";v=\"24\", \"Google Chrome\";v=\"116\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-origin",
+    "x-requested-with": "XMLHttpRequest"
+  },
+  "referrer": "https://www.lineupexperts.com/hockey/mock-draft-simulator",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": "dround_selected=1&pid=ZmRmZGZkZmp%3D632p7962125q5q631631srs92162387r&round=16",
+  "method": "POST",
+  "mode": "cors",
+  "credentials": "include"
+});
+await fetch("https://www.lineupexperts.com/hockey/mock-draft-simulator", {
+  "headers": {
+    "accept": "application/json, text/javascript, */*; q=0.01",
+    "accept-language": "en-US,en;q=0.9",
+    "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
+    "sec-ch-ua": "\"Chromium\";v=\"116\", \"Not)A;Brand\";v=\"24\", \"Google Chrome\";v=\"116\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-origin",
+    "x-requested-with": "XMLHttpRequest"
+  },
+  "referrer": "https://www.lineupexperts.com/hockey/mock-draft-simulator",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": "dround_selected=1&pid=ZmRmZwZjZmL%3Dnqn5n60629s2rq8556o8q50so6n930pr&round=16",
+  "method": "POST",
+  "mode": "cors",
+  "credentials": "include"
+});
+await fetch("https://www.lineupexperts.com/hockey/mock-draft-simulator", {
+  "headers": {
+    "accept": "application/json, text/javascript, */*; q=0.01",
+    "accept-language": "en-US,en;q=0.9",
+    "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
+    "sec-ch-ua": "\"Chromium\";v=\"116\", \"Not)A;Brand\";v=\"24\", \"Google Chrome\";v=\"116\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-origin",
+    "x-requested-with": "XMLHttpRequest"
+  },
+  "referrer": "https://www.lineupexperts.com/hockey/mock-draft-simulator",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": "dround_selected=1&pid=ZmRmZGZm3p694454qr289r9975p9374pnr6rs67n&round=13",
+  "method": "POST",
+  "mode": "cors",
+  "credentials": "include"
+});
+await fetch("https://www.lineupexperts.com/hockey/mock-draft-simulator", {
+  "headers": {
+    "accept": "application/json, text/javascript, */*; q=0.01",
+    "accept-language": "en-US,en;q=0.9",
+    "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
+    "sec-ch-ua": "\"Chromium\";v=\"116\", \"Not)A;Brand\";v=\"24\", \"Google Chrome\";v=\"116\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-origin",
+    "x-requested-with": "XMLHttpRequest"
+  },
+  "referrer": "https://www.lineupexperts.com/hockey/mock-draft-simulator",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": "dround_selected=1&pid=ZmRmAGZkZmH%3Dno25334pq7o17p38890o9122n9814p05&round=9",
+  "method": "POST",
+  "mode": "cors",
+  "credentials": "include"
+});
+await fetch("https://www.lineupexperts.com/hockey/mock-draft-simulator", {
+  "headers": {
+    "accept": "application/json, text/javascript, */*; q=0.01",
+    "accept-language": "en-US,en;q=0.9",
+    "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
+    "sec-ch-ua": "\"Chromium\";v=\"116\", \"Not)A;Brand\";v=\"24\", \"Google Chrome\";v=\"116\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-origin",
+    "x-requested-with": "XMLHttpRequest"
+  },
+  "referrer": "https://www.lineupexperts.com/hockey/mock-draft-simulator",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": "dround_selected=1&pid=ZmxmAwZkp0on9psq6n593o15q809rp04p0q3r445&round=15",
+  "method": "POST",
+  "mode": "cors",
+  "credentials": "include"
+});
+await fetch("https://www.lineupexperts.com/hockey/mock-draft-simulator", {
+  "headers": {
+    "accept": "application/json, text/javascript, */*; q=0.01",
+    "accept-language": "en-US,en;q=0.9",
+    "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
+    "sec-ch-ua": "\"Chromium\";v=\"116\", \"Not)A;Brand\";v=\"24\", \"Google Chrome\";v=\"116\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-origin",
+    "x-requested-with": "XMLHttpRequest"
+  },
+  "referrer": "https://www.lineupexperts.com/hockey/mock-draft-simulator",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": "dround_selected=1&pid=ZmxmZj%3D%3D416or4377n0194os8p8q654n34433858&round=5",
+  "method": "POST",
+  "mode": "cors",
+  "credentials": "include"
+});
+await fetch("https://www.lineupexperts.com/hockey/mock-draft-simulator", {
+  "headers": {
+    "accept": "application/json, text/javascript, */*; q=0.01",
+    "accept-language": "en-US,en;q=0.9",
+    "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
+    "sec-ch-ua": "\"Chromium\";v=\"116\", \"Not)A;Brand\";v=\"24\", \"Google Chrome\";v=\"116\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-origin",
+    "x-requested-with": "XMLHttpRequest"
+  },
+  "referrer": "https://www.lineupexperts.com/hockey/mock-draft-simulator",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": "dround_selected=1&pid=ZmRmZwZ2ZmZ%3D5pnnrr7610o442p0448n2n9584q60sqq&round=12",
+  "method": "POST",
+  "mode": "cors",
+  "credentials": "include"
+});
+await fetch("https://www.lineupexperts.com/hockey/mock-draft-simulator", {
+  "headers": {
+    "accept": "application/json, text/javascript, */*; q=0.01",
+    "accept-language": "en-US,en;q=0.9",
+    "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
+    "sec-ch-ua": "\"Chromium\";v=\"116\", \"Not)A;Brand\";v=\"24\", \"Google Chrome\";v=\"116\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-origin",
+    "x-requested-with": "XMLHttpRequest"
+  },
+  "referrer": "https://www.lineupexperts.com/hockey/mock-draft-simulator",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": "dround_selected=1&pid=ZmpmZQZ2o968o453p8npr8716sppp9rop6q71n7n&round=6",
+  "method": "POST",
+  "mode": "cors",
+  "credentials": "include"
+});
+await fetch("https://www.lineupexperts.com/hockey/mock-draft-simulator", {
+  "headers": {
+    "accept": "application/json, text/javascript, */*; q=0.01",
+    "accept-language": "en-US,en;q=0.9",
+    "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
+    "sec-ch-ua": "\"Chromium\";v=\"116\", \"Not)A;Brand\";v=\"24\", \"Google Chrome\";v=\"116\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-origin",
+    "x-requested-with": "XMLHttpRequest"
+  },
+  "referrer": "https://www.lineupexperts.com/hockey/mock-draft-simulator",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": "dround_selected=1&pid=ZmDmZQZk82o5357n91qs01po2828s2552q4qq43q&round=14",
+  "method": "POST",
+  "mode": "cors",
+  "credentials": "include"
+});
+await fetch("https://www.lineupexperts.com/hockey/mock-draft-simulator", {
+  "headers": {
+    "accept": "application/json, text/javascript, */*; q=0.01",
+    "accept-language": "en-US,en;q=0.9",
+    "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
+    "sec-ch-ua": "\"Chromium\";v=\"116\", \"Not)A;Brand\";v=\"24\", \"Google Chrome\";v=\"116\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-origin",
+    "x-requested-with": "XMLHttpRequest"
+  },
+  "referrer": "https://www.lineupexperts.com/hockey/mock-draft-simulator",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": "dround_selected=1&pid=ZmRmZQZ5ZmN%3D68q3o075355o4pr3038nrnop03517or1&round=16",
+  "method": "POST",
+  "mode": "cors",
+  "credentials": "include"
+});
+await fetch("https://www.lineupexperts.com/hockey/mock-draft-simulator", {
+  "headers": {
+    "accept": "application/json, text/javascript, */*; q=0.01",
+    "accept-language": "en-US,en;q=0.9",
+    "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
+    "sec-ch-ua": "\"Chromium\";v=\"116\", \"Not)A;Brand\";v=\"24\", \"Google Chrome\";v=\"116\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-origin",
+    "x-requested-with": "XMLHttpRequest"
+  },
+  "referrer": "https://www.lineupexperts.com/hockey/mock-draft-simulator",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": "dround_selected=1&pid=ZmRmBGZks4956n62q98s5264o2q41sq08382npp1&round=13",
+  "method": "POST",
+  "mode": "cors",
+  "credentials": "include"
+});
+await fetch("https://www.lineupexperts.com/hockey/mock-draft-simulator", {
+  "headers": {
+    "accept": "application/json, text/javascript, */*; q=0.01",
+    "accept-language": "en-US,en;q=0.9",
+    "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
+    "sec-ch-ua": "\"Chromium\";v=\"116\", \"Not)A;Brand\";v=\"24\", \"Google Chrome\";v=\"116\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-origin",
+    "x-requested-with": "XMLHttpRequest"
+  },
+  "referrer": "https://www.lineupexperts.com/hockey/mock-draft-simulator",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": "dround_selected=1&pid=ZmRmAGZ2ZmD%3D3o65ns0603oq426on214p4212q0102q0&round=14",
+  "method": "POST",
+  "mode": "cors",
+  "credentials": "include"
+});
+await fetch("https://www.lineupexperts.com/hockey/mock-draft-simulator", {
+  "headers": {
+    "accept": "application/json, text/javascript, */*; q=0.01",
+    "accept-language": "en-US,en;q=0.9",
+    "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
+    "sec-ch-ua": "\"Chromium\";v=\"116\", \"Not)A;Brand\";v=\"24\", \"Google Chrome\";v=\"116\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-origin",
+    "x-requested-with": "XMLHttpRequest"
+  },
+  "referrer": "https://www.lineupexperts.com/hockey/mock-draft-simulator",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": "dround_selected=1&pid=ZmZmZmZ2r6p772o2rnr918048866q10oqnrop9pp&round=15",
+  "method": "POST",
+  "mode": "cors",
+  "credentials": "include"
+});
+await fetch("https://www.lineupexperts.com/hockey/mock-draft-simulator", {
+  "headers": {
+    "accept": "application/json, text/javascript, */*; q=0.01",
+    "accept-language": "en-US,en;q=0.9",
+    "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
+    "sec-ch-ua": "\"Chromium\";v=\"116\", \"Not)A;Brand\";v=\"24\", \"Google Chrome\";v=\"116\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-origin",
+    "x-requested-with": "XMLHttpRequest"
+  },
+  "referrer": "https://www.lineupexperts.com/hockey/mock-draft-simulator",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": "dround_selected=1&pid=ZmRmAmZkZmN%3D15040s316o521r2sq76o47o7389q0489&round=4",
+  "method": "POST",
+  "mode": "cors",
+  "credentials": "include"
+});
+await fetch("https://www.lineupexperts.com/hockey/mock-draft-simulator", {
+  "headers": {
+    "accept": "application/json, text/javascript, */*; q=0.01",
+    "accept-language": "en-US,en;q=0.9",
+    "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
+    "sec-ch-ua": "\"Chromium\";v=\"116\", \"Not)A;Brand\";v=\"24\", \"Google Chrome\";v=\"116\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-origin",
+    "x-requested-with": "XMLHttpRequest"
+  },
+  "referrer": "https://www.lineupexperts.com/hockey/mock-draft-simulator",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": "dround_selected=1&pid=ZmVmZQZl17o82p954n8s9853n8qq508qn1855n7r&round=15",
+  "method": "POST",
+  "mode": "cors",
+  "credentials": "include"
+});
+await fetch("https://www.lineupexperts.com/hockey/mock-draft-simulator", {
+  "headers": {
+    "accept": "application/json, text/javascript, */*; q=0.01",
+    "accept-language": "en-US,en;q=0.9",
+    "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
+    "sec-ch-ua": "\"Chromium\";v=\"116\", \"Not)A;Brand\";v=\"24\", \"Google Chrome\";v=\"116\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-origin",
+    "x-requested-with": "XMLHttpRequest"
+  },
+  "referrer": "https://www.lineupexperts.com/hockey/mock-draft-simulator",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": "dround_selected=1&pid=ZmRmZwZ2ZmL%3D065r919pp464n0pq77703430srr0r7oq&round=16",
+  "method": "POST",
+  "mode": "cors",
+  "credentials": "include"
+});
+await fetch("https://www.lineupexperts.com/hockey/mock-draft-simulator", {
+  "headers": {
+    "accept": "application/json, text/javascript, */*; q=0.01",
+    "accept-language": "en-US,en;q=0.9",
+    "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
+    "sec-ch-ua": "\"Chromium\";v=\"116\", \"Not)A;Brand\";v=\"24\", \"Google Chrome\";v=\"116\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-origin",
+    "x-requested-with": "XMLHttpRequest"
+  },
+  "referrer": "https://www.lineupexperts.com/hockey/mock-draft-simulator",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": "dround_selected=1&pid=ZmtmBQZ5698995r7qn0np685p4597904n35422nr&round=5",
+  "method": "POST",
+  "mode": "cors",
+  "credentials": "include"
+});
+await fetch("https://www.lineupexperts.com/hockey/mock-draft-simulator", {
+  "headers": {
+    "accept": "application/json, text/javascript, */*; q=0.01",
+    "accept-language": "en-US,en;q=0.9",
+    "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
+    "sec-ch-ua": "\"Chromium\";v=\"116\", \"Not)A;Brand\";v=\"24\", \"Google Chrome\";v=\"116\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-origin",
+    "x-requested-with": "XMLHttpRequest"
+  },
+  "referrer": "https://www.lineupexperts.com/hockey/mock-draft-simulator",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": "dround_selected=1&pid=ZmRmAwZlZmV%3D6n506416p1q38s6o4993nnoq78q64oo6&round=13",
+  "method": "POST",
+  "mode": "cors",
+  "credentials": "include"
+});
+await fetch("https://www.lineupexperts.com/hockey/mock-draft-simulator", {
+  "headers": {
+    "accept": "application/json, text/javascript, */*; q=0.01",
+    "accept-language": "en-US,en;q=0.9",
+    "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
+    "sec-ch-ua": "\"Chromium\";v=\"116\", \"Not)A;Brand\";v=\"24\", \"Google Chrome\";v=\"116\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-origin",
+    "x-requested-with": "XMLHttpRequest"
+  },
+  "referrer": "https://www.lineupexperts.com/hockey/mock-draft-simulator",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": "dround_selected=1&pid=ZmRmAmZ5ZmN%3D25s50o260oonqq6n01670p628r0ns414&round=12",
+  "method": "POST",
+  "mode": "cors",
+  "credentials": "include"
+});
+await fetch("https://www.lineupexperts.com/hockey/mock-draft-simulator", {
+  "headers": {
+    "accept": "application/json, text/javascript, */*; q=0.01",
+    "accept-language": "en-US,en;q=0.9",
+    "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
+    "sec-ch-ua": "\"Chromium\";v=\"116\", \"Not)A;Brand\";v=\"24\", \"Google Chrome\";v=\"116\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-origin",
+    "x-requested-with": "XMLHttpRequest"
+  },
+  "referrer": "https://www.lineupexperts.com/hockey/mock-draft-simulator",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": "dround_selected=1&pid=ZmRmZmZmZmH%3Dn6n07196s8s1os3ro34q00q2so2728p0&round=5",
+  "method": "POST",
+  "mode": "cors",
+  "credentials": "include"
+});
+await fetch("https://www.lineupexperts.com/hockey/mock-draft-simulator", {
+  "headers": {
+    "accept": "application/json, text/javascript, */*; q=0.01",
+    "accept-language": "en-US,en;q=0.9",
+    "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
+    "sec-ch-ua": "\"Chromium\";v=\"116\", \"Not)A;Brand\";v=\"24\", \"Google Chrome\";v=\"116\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-origin",
+    "x-requested-with": "XMLHttpRequest"
+  },
+  "referrer": "https://www.lineupexperts.com/hockey/mock-draft-simulator",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": "dround_selected=1&pid=ZmRmAmZjZmH%3D7o66719o2445377q33s95216o54o37s7&round=11",
+  "method": "POST",
+  "mode": "cors",
+  "credentials": "include"
+});
+await fetch("https://www.lineupexperts.com/hockey/mock-draft-simulator", {
+  "headers": {
+    "accept": "application/json, text/javascript, */*; q=0.01",
+    "accept-language": "en-US,en;q=0.9",
+    "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
+    "sec-ch-ua": "\"Google Chrome\";v=\"117\", \"Not;A=Brand\";v=\"8\", \"Chromium\";v=\"117\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-origin",
+    "x-requested-with": "XMLHttpRequest"
+  },
+  "referrer": "https://www.lineupexperts.com/hockey/mock-draft-simulator",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": "dround_selected=1&pid=ZmRmAGZkZmD%3D0q1p03n12523094pqns37762q52p8p61&round=8",
+  "method": "POST",
+  "mode": "cors",
+  "credentials": "include"
+}); ;
+await fetch("https://www.lineupexperts.com/hockey/mock-draft-simulator", {
+  "headers": {
+    "accept": "application/json, text/javascript, */*; q=0.01",
+    "accept-language": "en-US,en;q=0.9",
+    "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
+    "sec-ch-ua": "\"Google Chrome\";v=\"117\", \"Not;A=Brand\";v=\"8\", \"Chromium\";v=\"117\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-origin",
+    "x-requested-with": "XMLHttpRequest"
+  },
+  "referrer": "https://www.lineupexperts.com/hockey/mock-draft-simulator",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": "dround_selected=1&pid=ZmLmBQZ2p8p83r02ps08qo16o9876sr39985386r&round=10",
+  "method": "POST",
+  "mode": "cors",
+  "credentials": "include"
+}); ;
+await fetch("https://www.lineupexperts.com/hockey/mock-draft-simulator", {
+  "headers": {
+    "accept": "application/json, text/javascript, */*; q=0.01",
+    "accept-language": "en-US,en;q=0.9",
+    "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
+    "sec-ch-ua": "\"Google Chrome\";v=\"117\", \"Not;A=Brand\";v=\"8\", \"Chromium\";v=\"117\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-origin",
+    "x-requested-with": "XMLHttpRequest"
+  },
+  "referrer": "https://www.lineupexperts.com/hockey/mock-draft-simulator",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": "dround_selected=1&pid=ZmRmAGZjZmV%3Drso532nq9on7s89429r13932o8pq2oqo&round=12",
+  "method": "POST",
+  "mode": "cors",
+  "credentials": "include"
+}); ;
+await fetch("https://www.lineupexperts.com/hockey/mock-draft-simulator", {
+  "headers": {
+    "accept": "application/json, text/javascript, */*; q=0.01",
+    "accept-language": "en-US,en;q=0.9",
+    "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
+    "sec-ch-ua": "\"Google Chrome\";v=\"117\", \"Not;A=Brand\";v=\"8\", \"Chromium\";v=\"117\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-origin",
+    "x-requested-with": "XMLHttpRequest"
+  },
+  "referrer": "https://www.lineupexperts.com/hockey/mock-draft-simulator",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": "dround_selected=1&pid=ZmVmAQZjZmt%3Ds14pn1o5p89q55n33r9835599sqp5508&round=15",
+  "method": "POST",
+  "mode": "cors",
+  "credentials": "include"
+});
+await fetch("https://www.lineupexperts.com/hockey/mock-draft-simulator", {
+  "headers": {
+    "accept": "application/json, text/javascript, */*; q=0.01",
+    "accept-language": "en-US,en;q=0.9",
+    "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
+    "sec-ch-ua": "\"Chromium\";v=\"116\", \"Not)A;Brand\";v=\"24\", \"Google Chrome\";v=\"116\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-origin",
+    "x-requested-with": "XMLHttpRequest"
+  },
+  "referrer": "https://www.lineupexperts.com/hockey/mock-draft-simulator",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": "dround_selected=1&pid=ZmRmZQZ2ZmZ%3D5s7n35o9710nnrqssr52nrqo6s32q8q1&round=15",
+  "method": "POST",
+  "mode": "cors",
+  "credentials": "include"
+});
+await fetch("https://www.lineupexperts.com/hockey/mock-draft-simulator", {
+  "headers": {
+    "accept": "application/json, text/javascript, */*; q=0.01",
+    "accept-language": "en-US,en;q=0.9",
+    "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
+    "sec-ch-ua": "\"Chromium\";v=\"116\", \"Not)A;Brand\";v=\"24\", \"Google Chrome\";v=\"116\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-origin",
+    "x-requested-with": "XMLHttpRequest"
+  },
+  "referrer": "https://www.lineupexperts.com/hockey/mock-draft-simulator",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": "dround_selected=1&pid=ZmRmZmZlZmx%3D8452p2sq5653q59260s5q73sr3896947&round=11",
+  "method": "POST",
+  "mode": "cors",
+  "credentials": "include"
+});
+await fetch("https://www.lineupexperts.com/hockey/mock-draft-simulator", {
+  "headers": {
+    "accept": "application/json, text/javascript, */*; q=0.01",
+    "accept-language": "en-US,en;q=0.9",
+    "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
+    "sec-ch-ua": "\"Chromium\";v=\"116\", \"Not)A;Brand\";v=\"24\", \"Google Chrome\";v=\"116\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-origin",
+    "x-requested-with": "XMLHttpRequest"
+  },
+  "referrer": "https://www.lineupexperts.com/hockey/mock-draft-simulator",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": "dround_selected=1&pid=ZmRmAwZ1Zmx%3D4rq959no4930990oq0r6nrsorpoq4qq3&round=16",
+  "method": "POST",
+  "mode": "cors",
+  "credentials": "include"
+});
+await fetch("https://www.lineupexperts.com/hockey/mock-draft-simulator", {
+  "headers": {
+    "accept": "application/json, text/javascript, */*; q=0.01",
+    "accept-language": "en-US,en;q=0.9",
+    "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
+    "sec-ch-ua": "\"Chromium\";v=\"116\", \"Not)A;Brand\";v=\"24\", \"Google Chrome\";v=\"116\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-origin",
+    "x-requested-with": "XMLHttpRequest"
+  },
+  "referrer": "https://www.lineupexperts.com/hockey/mock-draft-simulator",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": "dround_selected=1&pid=ZmRmAGZlZmH%3Ds0p2o93960oq29578n2o3qn4n7n3on02&round=14",
+  "method": "POST",
+  "mode": "cors",
+  "credentials": "include"
+});
+await fetch("https://www.lineupexperts.com/hockey/mock-draft-simulator", {
+  "headers": {
+    "accept": "application/json, text/javascript, */*; q=0.01",
+    "accept-language": "en-US,en;q=0.9",
+    "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
+    "sec-ch-ua": "\"Chromium\";v=\"116\", \"Not)A;Brand\";v=\"24\", \"Google Chrome\";v=\"116\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-origin",
+    "x-requested-with": "XMLHttpRequest"
+  },
+  "referrer": "https://www.lineupexperts.com/hockey/mock-draft-simulator",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": "dround_selected=1&pid=ZmVmAQZlZmD%3D338s50685s8s81811264011s1qns15p8&round=12",
+  "method": "POST",
+  "mode": "cors",
+  "credentials": "include"
+});
+await fetch("https://www.lineupexperts.com/hockey/mock-draft-simulator", {
+  "headers": {
+    "accept": "application/json, text/javascript, */*; q=0.01",
+    "accept-language": "en-US,en;q=0.9",
+    "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
+    "sec-ch-ua": "\"Chromium\";v=\"116\", \"Not)A;Brand\";v=\"24\", \"Google Chrome\";v=\"116\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-origin",
+    "x-requested-with": "XMLHttpRequest"
+  },
+  "referrer": "https://www.lineupexperts.com/hockey/mock-draft-simulator",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": "dround_selected=1&pid=ZmRmZmZ3ZmH%3Dq87p1n83p327550ro8r36npq62o29s5q&round=4",
+  "method": "POST",
+  "mode": "cors",
+  "credentials": "include"
+});
+await fetch("https://www.lineupexperts.com/hockey/mock-draft-simulator", {
+  "headers": {
+    "accept": "application/json, text/javascript, */*; q=0.01",
+    "accept-language": "en-US,en;q=0.9",
+    "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
+    "sec-ch-ua": "\"Chromium\";v=\"116\", \"Not)A;Brand\";v=\"24\", \"Google Chrome\";v=\"116\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-origin",
+    "x-requested-with": "XMLHttpRequest"
+  },
+  "referrer": "https://www.lineupexperts.com/hockey/mock-draft-simulator",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": "dround_selected=1&pid=ZmRmZmZjZmt%3D5468pr0895629s396no19p57r1r5925r&round=2",
+  "method": "POST",
+  "mode": "cors",
+  "credentials": "include"
+});
+await fetch("https://www.lineupexperts.com/hockey/mock-draft-simulator", {
+  "headers": {
+    "accept": "application/json, text/javascript, */*; q=0.01",
+    "accept-language": "en-US,en;q=0.9",
+    "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
+    "sec-ch-ua": "\"Chromium\";v=\"116\", \"Not)A;Brand\";v=\"24\", \"Google Chrome\";v=\"116\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-origin",
+    "x-requested-with": "XMLHttpRequest"
+  },
+  "referrer": "https://www.lineupexperts.com/hockey/mock-draft-simulator",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": "dround_selected=1&pid=ZmRmZQZ5ZmD%3Drn4o2098p0828n90r7892874r769pso1&round=6",
+  "method": "POST",
+  "mode": "cors",
+  "credentials": "include"
+});

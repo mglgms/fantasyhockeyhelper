@@ -1,0 +1,25 @@
+const queryString = window.location.search;
+const urlParams = new URLSearchParams(queryString);
+const draft = urlParams.get('draft');
+fetch(`https://www.lineupexperts.com/hockey/mock-draft-setup?draft=${draft}`, {
+  "headers": {
+    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+    "accept-language": "en-US,en;q=0.9",
+    "cache-control": "max-age=0",
+    "content-type": "application/x-www-form-urlencoded",
+    "sec-ch-ua": "\"Chromium\";v=\"116\", \"Not)A;Brand\";v=\"24\", \"Google Chrome\";v=\"116\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "document",
+    "sec-fetch-mode": "navigate",
+    "sec-fetch-site": "same-origin",
+    "sec-fetch-user": "?1",
+    "upgrade-insecure-requests": "1"
+  },
+  "referrer": `https://www.lineupexperts.com/hockey/mock-draft-setup?draft=${draft}`,
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": "trigger=1&pick-1=&pick-2=&pick-3=&pick-4=&pick-5=&pick-6=&pick-7=&pick-8=&pick-9=&pick-10=&pick-11=&pick-12=&pick-24=&pick-23=&pick-22=&pick-21=&pick-20=&pick-19=&pick-18=&pick-17=&pick-16=&pick-15=&pick-14=&pick-13=&pick-25=&pick-26=&pick-27=&pick-28=&pick-29=&pick-30=&pick-31=&pick-32=&pick-33=2&pick-34=&pick-35=&pick-36=&pick-48=&pick-47=&pick-46=&pick-45=&pick-44=&pick-43=&pick-42=&pick-41=&pick-40=&pick-39=&pick-38=&pick-37=&pick-49=&pick-50=&pick-51=&pick-52=&pick-53=&pick-54=&pick-55=&pick-56=3&pick-57=2&pick-58=&pick-59=&pick-60=&pick-72=&pick-71=&pick-70=&pick-69=&pick-68=&pick-67=&pick-66=&pick-65=&pick-64=&pick-63=&pick-62=&pick-61=&pick-73=&pick-74=&pick-75=&pick-76=&pick-77=&pick-78=&pick-79=&pick-80=&pick-81=&pick-82=&pick-83=&pick-84=&pick-96=&pick-95=9&pick-94=&pick-93=&pick-92=&pick-91=&pick-90=&pick-89=&pick-88=&pick-87=&pick-86=&pick-85=&pick-97=&pick-98=&pick-99=8&pick-100=&pick-101=&pick-102=&pick-103=&pick-104=&pick-105=3&pick-106=4&pick-107=&pick-108=&pick-120=&pick-119=&pick-118=&pick-117=10&pick-116=&pick-115=&pick-114=&pick-113=&pick-112=&pick-111=&pick-110=&pick-109=&pick-121=&pick-122=&pick-123=9&pick-124=&pick-125=&pick-126=&pick-127=&pick-128=&pick-129=&pick-130=&pick-131=&pick-132=&pick-144=&pick-143=9&pick-142=&pick-141=&pick-140=&pick-139=&pick-138=&pick-137=&pick-136=&pick-135=&pick-134=&pick-133=&pick-145=&pick-146=&pick-147=&pick-148=&pick-149=&pick-150=&pick-151=&pick-152=&pick-153=&pick-154=&pick-155=&pick-156=&pick-168=&pick-167=&pick-166=&pick-165=&pick-164=&pick-163=&pick-162=&pick-161=&pick-160=&pick-159=&pick-158=&pick-157=&pick-169=&pick-170=&pick-171=&pick-172=&pick-173=&pick-174=&pick-175=&pick-176=&pick-177=&pick-178=&pick-179=&pick-180=&pick-192=&pick-191=&pick-190=&pick-189=&pick-188=&pick-187=&pick-186=&pick-185=&pick-184=&pick-183=&pick-182=&pick-181=",
+  "method": "POST",
+  "mode": "cors",
+  "credentials": "include"
+});

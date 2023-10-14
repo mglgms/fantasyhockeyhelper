@@ -1,0 +1,1 @@
+curl https://www.cbssports.com/nhl/injuries/daily/ -O injuries.html
